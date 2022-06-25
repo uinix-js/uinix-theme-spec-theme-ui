@@ -44,7 +44,7 @@ test('spec', (t) => {
         'borderRightWidth',
         'borderTopWidth',
         'borderWidth',
-        'column-rule-width',
+        'columnRuleWidth',
       ],
       colors: [
         'background',

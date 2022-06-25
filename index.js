@@ -37,7 +37,7 @@ const spec = {
     'borderRightWidth',
     'borderTopWidth',
     'borderWidth',
-    'column-rule-width',
+    'columnRuleWidth',
   ],
   colors: [
     'background',
